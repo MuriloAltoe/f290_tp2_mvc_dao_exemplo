@@ -39,7 +39,7 @@ public class ContatoVO {
 
     @Override
     public String toString() {
-        return "ContatoVO [id=" + id + ", nome=" + nome + ", email=" + email + "]";
+        return "ContatoVO {\nid=" + id + ", \nnome=" + nome + ", \nemail=" + email + "}";
     }
     
 }
